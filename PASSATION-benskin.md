@@ -48,3 +48,7 @@
 ## 2026-11-06 08:29 — Lien du cahier des charges envoyé sur WhatsApp
 - Message envoyé dans « TRIGENYS GROUP » via WAHA (sendText sur le VPS, HTTP 201, visible dans l'historique du chat, fromMe). Contenu : lien du doc + 5 questions ouvertes.
 - Reste : attendre les retours des devs, puis premier commit du squelette et semaine 1.
+
+## 2026-11-06 08:30 — Premier commit du squelette
+- Commit cc15ac5 sur `main` (identité repo-locale EagleFox31 noreply ; `.gitattributes` LF + binaires ajouté). Arbre propre, aucun remote configuré.
+- Prochaine étape : semaine 1 — art bible, `project.godot`, prototype gris de la moto (physique dans un `.tres`). Attendre les retours WhatsApp des devs sur les questions ouvertes.
