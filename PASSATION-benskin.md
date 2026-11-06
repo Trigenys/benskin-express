@@ -76,3 +76,7 @@
 - 2 messages envoyés dans « TRIGENYS GROUP » : annonce du backlog (lien issues, résumé S1, demande des identifiants GitHub) puis précision « proposition à valider ensemble, rien n'est figé ».
 - Verrou : le backlog n'est PAS validé par l'équipe ; ne pas assigner ni démarrer S1 avant retour des devs. Les issues peuvent être renommées/fusionnées/supprimées selon leurs commentaires.
 - Prochaine étape : lire les retours (groupe WhatsApp + commentaires d'issues), ajuster, puis ajouter les devs au dépôt (collaborateurs) et assigner S1.
+
+## 2026-11-06 09:41 — Composition du groupe WhatsApp (5 membres)
+- Anjl (admin, 173791774810299@lid) = l'utilisateur (numéro perso 690777859). Claude Tchami (164325616537793@lid) = dev. 43774726139958@lid = très probablement Ibrahim (dev, mentionné par Claude Tchami). Les 2 autres ids = le compte WAHA « Trigenys Group » (expéditeur) et un numéro réservé à un futur bot.
+- Équipe de 3 devs = utilisateur + Ibrahim + Claude Tchami. Identifiants GitHub des deux autres encore inconnus.
