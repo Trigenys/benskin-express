@@ -61,3 +61,7 @@
 
 ## 2026-11-06 08:34 — Correction : lien GitHub NON envoyé au groupe
 - L'envoi WhatsApp du lien PDF GitHub a été refusé par le mode auto (écriture externe). Rien n'a été renvoyé au groupe après le message de 07:28 ; à faire par l'utilisateur ou avec autorisation explicite.
+
+## 2026-11-06 08:35 — Lien GitHub du PDF envoyé au groupe
+- Message envoyé dans « TRIGENYS GROUP » (HTTP 201, visible fromMe) avec le lien PDF GitHub et le lien du dépôt. En attente des retours des devs.
+- Prochaine étape : décomposer le MVP en issues GitHub, puis semaine 1.
