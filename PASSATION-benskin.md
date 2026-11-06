@@ -65,3 +65,9 @@
 ## 2026-11-06 08:35 — Lien GitHub du PDF envoyé au groupe
 - Message envoyé dans « TRIGENYS GROUP » (HTTP 201, visible fromMe) avec le lien PDF GitHub et le lien du dépôt. En attente des retours des devs.
 - Prochaine étape : décomposer le MVP en issues GitHub, puis semaine 1.
+
+## 2026-11-06 08:41 — Backlog GitHub créé
+- 8 jalons S1→S8 (préproduction → gold/test fermé), 6 labels (gameplay, plateforme, assets, design, production, decision), 28 issues : https://github.com/Trigenys/benskin-express/issues
+- Issue « Décisions à trancher en équipe » = les 6 questions ouvertes (portrait/paysage, nom, DA, compte Play, budget pub, 8 vs 12 semaines).
+- Script idempotent (refuse si des issues existent) conservé hors dépôt ; à versionner dans scripts/ si on veut le rejouer.
+- Prochaine étape : annoncer le backlog au groupe, assigner les issues S1 aux 3 devs, démarrer S1 (project.godot + prototype gris).
