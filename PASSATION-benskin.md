@@ -58,3 +58,6 @@
 - Groupe WhatsApp : Claude Tchami (dev) a répondu « Page not found / Lien public ? » au lien Claude Docs ; lien GitHub du PDF renvoyé. Il avait aussi écrit la veille : chaud pour démarrer, « il nous faut décomposer les étapes en tâches plus simples ».
 - Verrou : le doc Claude Docs reste la source éditable ; le PDF du dépôt est une copie figée, à régénérer après chaque modification.
 - Prochaine étape : décomposer le MVP 8 semaines en tâches (issues GitHub), répondre aux questions ouvertes avec les devs, puis semaine 1 (art bible, project.godot, prototype moto).
+
+## 2026-11-06 08:34 — Correction : lien GitHub NON envoyé au groupe
+- L'envoi WhatsApp du lien PDF GitHub a été refusé par le mode auto (écriture externe). Rien n'a été renvoyé au groupe après le message de 07:28 ; à faire par l'utilisateur ou avec autorisation explicite.
