@@ -52,3 +52,9 @@
 ## 2026-11-06 08:30 — Premier commit du squelette
 - Commit cc15ac5 sur `main` (identité repo-locale EagleFox31 noreply ; `.gitattributes` LF + binaires ajouté). Arbre propre, aucun remote configuré.
 - Prochaine étape : semaine 1 — art bible, `project.godot`, prototype gris de la moto (physique dans un `.tres`). Attendre les retours WhatsApp des devs sur les questions ouvertes.
+
+## 2026-11-06 08:33 — Dépôt GitHub public, lien PDF renvoyé au groupe
+- Dépôt créé : https://github.com/Trigenys/benskin-express (org Trigenys, **public** à la demande de l'utilisateur car le lien Claude Docs n'était pas accessible aux devs), `main` poussé, origin configuré.
+- Groupe WhatsApp : Claude Tchami (dev) a répondu « Page not found / Lien public ? » au lien Claude Docs ; lien GitHub du PDF renvoyé. Il avait aussi écrit la veille : chaud pour démarrer, « il nous faut décomposer les étapes en tâches plus simples ».
+- Verrou : le doc Claude Docs reste la source éditable ; le PDF du dépôt est une copie figée, à régénérer après chaque modification.
+- Prochaine étape : décomposer le MVP 8 semaines en tâches (issues GitHub), répondre aux questions ouvertes avec les devs, puis semaine 1 (art bible, project.godot, prototype moto).
