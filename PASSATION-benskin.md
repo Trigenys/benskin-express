@@ -83,3 +83,9 @@
 
 ## 2026-11-06 09:43 — Précision : numéro du futur bot
 - Le numéro réservé au bot dans le groupe est le Camtel 620162160 (selon l'utilisateur, « je crois »). L'autre id sans nom est donc le compte WAHA « Trigenys Group ».
+
+## 2026-11-06 09:54 — Bot WhatsApp : décision et début du branchement
+- Décision : le bot parle avec le numéro Camtel 620162160 (pas le compte « Trigenys Group »). Ce que le bot doit faire n'est pas encore précisé par l'utilisateur.
+- VPS : WAHA est en tier CORE (1 session par conteneur) → 2e conteneur `trigenys-waha-bot` (devlikeapro/waha:noweb) dans `~/trigenys-waha-bot` (compose.yaml, .env propre avec clé API générée, port 127.0.0.1:3001). Session `benskin-bot` créée, statut SCAN_QR_CODE ; code d'appairage demandé pour 237620162160 (à saisir sur le téléphone, WhatsApp > Appareils connectés > Connecter avec un numéro).
+- Incident : SSH vers le VPS en « connection reset » pendant le KEX ; contournement : `-o KexAlgorithms=curve25519-sha256`. Cause : gros paquets du KEX post-quantique coupés sur le chemin réseau.
+- Suite : une fois la session WORKING, écrire le service webhook (Python, Docker, pas de node sur l'hôte) : filtre groupe TRIGENYS GROUP → API Claude → sendText via 3001. Clé Anthropic à fournir par l'utilisateur (jamais saisie par l'assistant). Reste à décider : rôle exact du bot.
