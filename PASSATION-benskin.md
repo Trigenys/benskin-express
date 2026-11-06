@@ -80,3 +80,6 @@
 ## 2026-11-06 09:41 — Composition du groupe WhatsApp (5 membres)
 - Anjl (admin, 173791774810299@lid) = l'utilisateur (numéro perso 690777859). Claude Tchami (164325616537793@lid) = dev. 43774726139958@lid = très probablement Ibrahim (dev, mentionné par Claude Tchami). Les 2 autres ids = le compte WAHA « Trigenys Group » (expéditeur) et un numéro réservé à un futur bot.
 - Équipe de 3 devs = utilisateur + Ibrahim + Claude Tchami. Identifiants GitHub des deux autres encore inconnus.
+
+## 2026-11-06 09:43 — Précision : numéro du futur bot
+- Le numéro réservé au bot dans le groupe est le Camtel 620162160 (selon l'utilisateur, « je crois »). L'autre id sans nom est donc le compte WAHA « Trigenys Group ».
