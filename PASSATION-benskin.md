@@ -71,3 +71,8 @@
 - Issue « Décisions à trancher en équipe » = les 6 questions ouvertes (portrait/paysage, nom, DA, compte Play, budget pub, 8 vs 12 semaines).
 - Script idempotent (refuse si des issues existent) conservé hors dépôt ; à versionner dans scripts/ si on veut le rejouer.
 - Prochaine étape : annoncer le backlog au groupe, assigner les issues S1 aux 3 devs, démarrer S1 (project.godot + prototype gris).
+
+## 2026-11-06 09:35 — Backlog annoncé au groupe, statut : proposition à valider
+- 2 messages envoyés dans « TRIGENYS GROUP » : annonce du backlog (lien issues, résumé S1, demande des identifiants GitHub) puis précision « proposition à valider ensemble, rien n'est figé ».
+- Verrou : le backlog n'est PAS validé par l'équipe ; ne pas assigner ni démarrer S1 avant retour des devs. Les issues peuvent être renommées/fusionnées/supprimées selon leurs commentaires.
+- Prochaine étape : lire les retours (groupe WhatsApp + commentaires d'issues), ajuster, puis ajouter les devs au dépôt (collaborateurs) et assigner S1.
